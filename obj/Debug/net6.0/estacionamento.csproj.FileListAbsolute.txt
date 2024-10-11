@@ -1,0 +1,15 @@
+C:\Users\User\OneDrive\Documentos\projetos\estacionamento\bin\Debug\net6.0\estacionamento.exe
+C:\Users\User\OneDrive\Documentos\projetos\estacionamento\bin\Debug\net6.0\estacionamento.deps.json
+C:\Users\User\OneDrive\Documentos\projetos\estacionamento\bin\Debug\net6.0\estacionamento.runtimeconfig.json
+C:\Users\User\OneDrive\Documentos\projetos\estacionamento\bin\Debug\net6.0\estacionamento.dll
+C:\Users\User\OneDrive\Documentos\projetos\estacionamento\bin\Debug\net6.0\estacionamento.pdb
+C:\Users\User\OneDrive\Documentos\projetos\estacionamento\obj\Debug\net6.0\estacionamento.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Documentos\projetos\estacionamento\obj\Debug\net6.0\estacionamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Documentos\projetos\estacionamento\obj\Debug\net6.0\estacionamento.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Documentos\projetos\estacionamento\obj\Debug\net6.0\estacionamento.AssemblyInfo.cs
+C:\Users\User\OneDrive\Documentos\projetos\estacionamento\obj\Debug\net6.0\estacionamento.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Documentos\projetos\estacionamento\obj\Debug\net6.0\estacionamento.dll
+C:\Users\User\OneDrive\Documentos\projetos\estacionamento\obj\Debug\net6.0\refint\estacionamento.dll
+C:\Users\User\OneDrive\Documentos\projetos\estacionamento\obj\Debug\net6.0\estacionamento.pdb
+C:\Users\User\OneDrive\Documentos\projetos\estacionamento\obj\Debug\net6.0\estacionamento.genruntimeconfig.cache
+C:\Users\User\OneDrive\Documentos\projetos\estacionamento\obj\Debug\net6.0\ref\estacionamento.dll
